@@ -1,0 +1,10 @@
+﻿  OpenGLClock.cpp
+C:\Users\olavu\source\repos\OpenGLClock\OpenGLClock.cpp(82,70): warning C4305: 'inizializzazione': troncamento da 'double' a 'GLfloat'
+C:\Users\olavu\source\repos\OpenGLClock\OpenGLClock.cpp(162,25): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\olavu\source\repos\OpenGLClock\OpenGLClock.cpp(163,24): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\olavu\source\repos\OpenGLClock\OpenGLClock.cpp(197,27): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\olavu\source\repos\OpenGLClock\OpenGLClock.cpp(198,26): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\olavu\source\repos\OpenGLClock\OpenGLClock.cpp(213,14): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\olavu\source\repos\OpenGLClock\OpenGLClock.cpp(214,15): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\olavu\source\repos\OpenGLClock\OpenGLClock.cpp(215,15): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+  OpenGLClock.vcxproj -> C:\Users\olavu\source\repos\OpenGLClock\x64\Debug\OpenGLClock.exe
